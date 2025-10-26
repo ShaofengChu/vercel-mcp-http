@@ -1,4 +1,4 @@
-# api/index.py
+# app/index.py
 from fastapi import FastAPI
 from starlette.middleware.cors import CORSMiddleware
 
