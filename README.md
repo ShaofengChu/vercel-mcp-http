@@ -148,7 +148,7 @@ pip install -r requirements.txt
 ### 2️⃣ 启动开发服务器
 
 ```bash
-uvicorn api.index:app --reload --port 8000
+uvicorn app.index:app --reload --port 8000
 ```
 
 ### 3️⃣ 测试端点
